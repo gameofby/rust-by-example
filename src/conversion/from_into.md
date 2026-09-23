@@ -1,7 +1,7 @@
 # `From` and `Into`
 
 The [`From`] and [`Into`] traits are inherently linked, and this is actually part of
-its implementation. If you are able to convert type A from type B, then it
+its implementation. If you are able to convert type A to type B, then it
 should be easy to believe that we should be able to convert type B to type A.
 
 ## `From`
